@@ -1,0 +1,14 @@
+{
+	"host": "localhost",
+	"port": "3366",
+	"username": "root",
+	"password": "",
+	"dbname": "dbcon",
+	"hashingsalt": "123456",
+	"encryptionkey": "123456",
+	"serverport": 9999,
+	"key": "coding rocks",
+	"tokenid": "ServerOne",
+	"tokenissuer": "Team Depardieu",
+	"tokenexpiration": 7200000
+}
